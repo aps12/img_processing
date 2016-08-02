@@ -16,10 +16,7 @@
 % Submitted to IEEE Transactions on Image Processing (October 2001). 
 % Check http://www.dsp.rice.edu/publications/ to
 % download the reference.
-%
-% Your comments would be highly appreciated. Please send them to 
-% neelsh@ece.edu
-%
+% 
 % This program uses some routines from the  Rice Wavelet toolbox.
 %
 % Copyright: All software, documentation, and related files in this 
@@ -29,10 +26,7 @@
 % notice be clearly maintained. The right to distribute any portion for profit
 % or as part of any commercial product is specifically reserved for the author.
 
-%  addpath 'C:\Users\krishna\Desktop\masters-chse\4th sem - 5 subjects\seminar-Embedded Image Processing\Seminar - Forward algorithm\rwt-when u get error for forward1d due to windows new version\rwt-master\bin' 
-%  addpath 'C:\Users\krishna\Desktop\masters-chse\4th sem - 5 subjects\seminar-Embedded Image Processing\Seminar - Forward algorithm\forward\WaRD-ver2.0\routines'
-
-addpath(genpath('C:\Users\krishna\Desktop\masters-chse\4th sem - 5 subjects\seminar-Embedded Image Processing\Seminar - Forward algorithm'))
+addpath(genpath('C:\Users\krishna\Desktop\masters-chse\seminar-Embedded Image Processing\Forward algorithm'))
 % Which Input signal would you like? Choose the corresponding number
 % (1) Cameraman (default)
 % (2) Lenna 
